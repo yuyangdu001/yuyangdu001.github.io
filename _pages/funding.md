@@ -75,8 +75,8 @@ Approved/Pending
   <span>2027-2028 (<span style="color: #2e74b5;">Pending</span>)</span>
 </div>
 <ul style="margin-left: 1.5em; margin-top: 6px;">
-  <li><font size=3><b>Topic:</b> You Only Improve What You Sense: mmWave-Enhanced Recursive Self-Improvement for Robot Manipulation</font></li>
-  <li><font size=3><b>Role:</b> <span style="color: #ffc000;">Co-I</span>, drafted the proposal in collaboration with the UCSD team, and led the robot-mmWave integration design.</font></li>
+  <li><font size=3><b>Topic:</b> You Only Improve What You Sense: mmWave-Enhanced Recursive Self-Improvement for Robot Manipulation (in collaboration with the WiSeCom Lab at UCSD)</font></li>
+  <li><font size=3><b>Role:</b> <span style="color: #ffc000;">Co-I</span>, drafted the proposal, and led the execution of preliminary research.</font></li>
 </ul>
 
 Completed
