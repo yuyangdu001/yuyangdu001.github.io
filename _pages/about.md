@@ -38,7 +38,7 @@ News <font size=3></font>
 
 <p><center>
   <br>
-  <div id="visitor-map" style="width:100%">
+  <div id="visitor-map" style="width:100%;max-width:420px;margin:0 auto">
     <a href="https://info.flagcounter.com/IVLA" aria-label="View visitor statistics">
       <img src="https://s05.flagcounter.com/map/IVLA/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Visitor map and pageview count" style="display:block;width:100%;height:auto;border:0">
     </a>
