@@ -56,6 +56,16 @@ a {
   </ul>
 </div>
 
+<h2 id="beyond-research-heading">Beyond Research <a href="https://yuyangdu001.github.io/gallery/">[Gallery Coming Soon]</a></h2>
+
+<p style="text-align: justify;"><font size=3><b>Cycling:</b> I am an avid cyclist with a passion for both competitive racing and long-distance adventures. I raced for <a href="https://www.xiaohongshu.com/user/profile/65e577b4000000000d026e00">Team PKU</a> during my undergraduate years (2015-2019). Even with a busy academic schedule after graduation, I stick to my daily training and currently maintain a power-to-weight ratio of 3.25 w/kg (tested on August 1, 2026). In the summer of 2016, I completed an epic bike tour to <a href="https://en.wikipedia.org/wiki/Mohe_City">Mohe</a>, the northernmost point of China, setting off from the vast <a href="https://en.wikipedia.org/wiki/Hulunbuir">Hulunbuir</a> grasslands in Inner Mongolia and traversing the dense forests of the <a href="https://en.wikipedia.org/wiki/Greater_Khingan">Greater Khingan Mountains</a>.</font></p>
+
+<p style="text-align: justify;"><font size=3><b>Trekking:</b> I enjoy wilderness hiking and connecting with nature. My journey has woven through the vast, high-altitude realms of <a href="https://en.wikipedia.org/wiki/Garz%C3%AA_Tibetan_Autonomous_Prefecture">Garzê</a>, the pristine alpine wilderness of <a href="https://en.wikipedia.org/wiki/Ngawa_Tibetan_and_Qiang_Autonomous_Prefecture">Ngawa</a>, and the rugged extremes of the <a href="https://en.wikipedia.org/wiki/Bingzhongluo">BingChaCha passage</a> from Yunnan to Tibet. I consider myself an incredibly lucky guy favored by the mountains: I was fortunate enough to catch the cloudless views of <a href="https://en.wikipedia.org/wiki/Kawagebo">Kawagarbo</a> (along the Bingchacha route), <a href="https://en.wikipedia.org/wiki/Mount_Gongga">Minya Konka</a> (in Garzê), and <a href="https://en.wikipedia.org/wiki/Mount_Siguniang">Yaomei Peak</a> (in Ngawa). All of these peaks are notoriously elusive, and witnessing even a single one of them is considered a true blessing in Tibetan culture!</font></p>
+
+<p style="text-align: justify;"><font size=3><b>Mountaineering:</b> Starting from May 2026, I have become fascinated by high-altitude snow mountain climbing. I successfully summited <a href="https://en.wikipedia.org/wiki/Mount_Siguniang">Mt. Siguniang</a> (Dafeng, 5025m) on June 29, and <a href="https://en.wikipedia.org/wiki/Qilian_Mountains">Mt. Gangshika</a> (Peak 3, 5005m) shortly after on August 15. Currently, I am learning ice climbing and glacier travel techniques to prepare myself for higher altitudes.</font></p>
+
+<p style="text-align: justify;"><font size=3><b>Alpine Skiing:</b> Winter sports are another major passion of mine. I have been skiing across various regions, leaving my tracks in <a href="https://en.wikipedia.org/wiki/Chongli_District">Chongli</a> (Spring 2023), <a href="https://en.wikipedia.org/wiki/Koktokay">Koktokay</a> (Winter 2023), and <a href="https://www.patspeak.com/">Pats Peak in New Hampshire</a> (Winter 2024).</font></p>
+
 <p><center>
   <br>
   <div id="visitor-map" style="width:100%;max-width:420px;margin:0 auto">
