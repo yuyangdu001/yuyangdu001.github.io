@@ -73,7 +73,7 @@ Approved/Pending
 Completed
 ------
 <div class="funding-project-heading">
-  <span>6. UGC Funding for Innovative Technology in Education (~0.3m HKD)</span>
+  <span>6. UGC Funding for Innovative Technology in Education (~300k HKD)</span>
   <span>2024-2025 (<span style="color: #bf4d14;">Completed</span>)</span>
 </div>
 <ul style="margin-left: 1.5em; margin-top: 6px;">
