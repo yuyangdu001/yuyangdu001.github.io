@@ -43,7 +43,7 @@ a {
   <ul>
     <li><font size=3><b>2026-10</b>: <a href="https://ieeexplore.ieee.org/abstract/document/11720365">LLMind 2.0</a> is accepted by <b>IEEE IoTJ</b>.</font></li>
     <li><font size=3><b>2026-09</b>: <a href="https://arxiv.org/abs/2501.13952">LibraAlign</a>, a DPO framework for scientific question answering, is accepted by <b>Nature Communications</b>.</font></li>
-    <li><font size=3><b>2026-05</b>: Two demo papers (<a href="https://arxiv.org/abs/2604.01092">LightGuard</a>, <a href="https://arxiv.org/abs/2604.08419">Real-Time CL-SEC</a>) accepted by <b>Mobisys'26</b>.</font></li>
+    <li><font size=3><b>2026-05</b>: Two demo papers (<a href="https://arxiv.org/abs/2604.01092">LightGuard</a>, <a href="https://arxiv.org/abs/2604.08419">Real-Time CL-SEC</a>) are accepted by <b>Mobisys'26</b>.</font></li>
     <li><font size=3><b>2026-04</b>: One paper about <a href="https://ieeexplore.ieee.org/document/11474563/">SFT for networking agents</a> accepted by <b>IEEE TMLCN</b>.</font></li>
     <li><font size=3><b>2026-01</b>: <a href="https://arxiv.org/abs/2507.15664"> VeriRAG</a>, <a href="https://arxiv.org/abs/2509.07436"> SA-OOSC</a>, and <a href="https://arxiv.org/abs/2509.24816">KnowGuard</a> are accepted by <b>ISQED'26</b>, <b>ICNC'26</b>, and <b>ICLR'26</b>, respectively.</font></li>
     <li><font size=3><b>2025-10</b>: <a href="https://arxiv.org/abs/2509.24816">KnowGuard</a> is available on Arxiv; <a href="https://arxiv.org/abs/2509.01199"> IndusGCC</a> is accepted by <b>NeurIPS'25</b>.</font></li>
