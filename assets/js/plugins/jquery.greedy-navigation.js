@@ -11,8 +11,30 @@ var $vlinks = $('#site-nav .visible-links');
 var $hlinks = $('#site-nav .hidden-links');
 
 var breaks = [];
+var mobileNav = false;
 
 function updateNav() {
+
+  // Keep every section in the dropdown on compact screens.
+  if (window.matchMedia('(max-width: 924px)').matches) {
+    if (!mobileNav) {
+      $hlinks.addClass('hidden');
+      $btn.removeClass('close');
+    }
+    $vlinks.children('*:not(.masthead__menu-item--lg)').prependTo($hlinks);
+    $btn.removeClass('hidden').attr('count', $hlinks.children().length);
+    mobileNav = true;
+    return;
+  }
+
+  // Restore source order before measuring the full desktop navigation.
+  if (mobileNav) {
+    $hlinks.children().appendTo($vlinks);
+    $hlinks.addClass('hidden');
+    $btn.removeClass('close');
+    breaks = [];
+    mobileNav = false;
+  }
 
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 

@@ -33,10 +33,14 @@ $(document).ready(function(){
     $(".author__urls-wrapper button").toggleClass("open");
   });
 
-  // Restore the follow menu if toggled on a window resize
+  // Let the stylesheet restore the follow menu when switching layouts.
+  var compactProfile = $(window).width() < scssLarge;
   jQuery(window).on('resize', function() {
-    if ($('.author__urls.social-icons').css('display') == 'none' && $(window).width() >= scssLarge) {
-      $(".author__urls").css('display', 'block')
+    var isCompact = $(window).width() < scssLarge;
+    if (isCompact !== compactProfile) {
+      $(".author__urls").stop(true, true).removeAttr('style');
+      $(".author__urls-wrapper button").removeClass('open');
+      compactProfile = isCompact;
     }
   });    
 

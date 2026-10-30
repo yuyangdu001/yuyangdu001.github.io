@@ -258,3 +258,52 @@
     }
   }
 }
+
+/* Keep the compact profile balanced beneath the mobile navigation. */
+@media screen and (max-width: 924px) {
+  .author-profile {
+    display: grid;
+    grid-template-columns: 64px minmax(0, 1fr) 64px;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .author-profile > .author__avatar {
+    display: block;
+    width: 64px;
+  }
+
+  .author-profile > .author__avatar img {
+    width: 100%;
+    height: auto;
+  }
+
+  .author-profile > .author__content {
+    display: block;
+    min-width: 0;
+    padding: 0;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  .sidebar .author__bio {
+    margin-top: 4px;
+    font-size: 13px;
+    line-height: 1.4;
+  }
+
+  .sidebar .author__bio font {
+    font-size: inherit;
+  }
+
+  .author-profile > .author__urls-wrapper {
+    display: block;
+    justify-self: end;
+  }
+
+  .author-profile .author__urls:before,
+  .author-profile .author__urls:after {
+    left: auto;
+    right: 22px;
+  }
+}
