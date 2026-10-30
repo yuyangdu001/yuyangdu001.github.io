@@ -5,15 +5,16 @@ author_profile: true
 ---
 
 <style>
+.mentorship {
+  text-align: justify;
+}
 .mentorship a {
   color: inherit;
   text-decoration: underline;
 }
 </style>
 
-Mentorship
-------
-<p><font size=3>I have had the honor to work with talented students and research staff from the <i>Institute of Network Coding</i> at IE Department, CUHK (led by <a href="https://www.ie.cuhk.edu.hk/faculty/LIEW-Soung-Chang/">Prof. Soung Chang Liew</a>) and <i>Institute of Medical Intelligence</i> at CSE Department, CUHK (led by <a href="https://appsrv.cse.cuhk.edu.hk/%7Epheng/index.php">Prof. Pheng Ann Heng</a>). A list of my mentees is as follows:</font></p>
+<p style="text-align: justify;"><font size=3>I have had the honor to work with talented students and research staff from the <i>Institute of Network Coding</i> at IE Department, CUHK (led by <a href="https://www.ie.cuhk.edu.hk/faculty/LIEW-Soung-Chang/">Prof. Soung Chang Liew</a>) and <i>Institute of Medical Intelligence</i> at CSE Department, CUHK (led by <a href="https://appsrv.cse.cuhk.edu.hk/%7Epheng/index.php">Prof. Pheng Ann Heng</a>). A list of my mentees is as follows:</font></p>
 
 <ul class="mentorship">
   <li><font size=3><b>Postdoctoral Researcher (2):</b> <a href="https://scholar.google.com/citations?user=shIE5pIAAAAJ">Dr. Lihao Zhang</a>, <a href="https://ziyangzhang96.github.io/">Dr. Ziyang Zhang</a></font></li>

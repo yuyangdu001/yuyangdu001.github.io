@@ -10,13 +10,7 @@ redirect_from:
 Academic Service
 ------
 <ul>
-  <li><font size=3><b>Journal Reviewer:</b></font>
-    <ul>
-      <li><font size=3>IEEE: TCOM / TWC / TSP / IoTJ / TII / TIE / TVT / THMS / TNNLS / TMM / ComMag / WCL / CL / Access</font></li>
-      <li><font size=3>ACM: TIoT / TKDD</font></li>
-      <li><font size=3>Nature Communications / Scientific Reports</font></li>
-    </ul>
-  </li>
+  <li><font size=3><b>Journal Reviewer:</b> IEEE TCOM / TWC / TSP / IoTJ / TII / TIE / TVT / THMS / TNNLS / TMM / ComMag / WCL / CL / Access, ACM TIoT / TKDD, Nature Communications, Scientific Reports</font></li>
   <li><font size=3><b>Conference Reviewer:</b> IEEE ICC, IEEE GLOBECOM, IEEE ICCC, IEEE WCNC, AAAI, NeurIPS, ICRA, IROS</font></li>
   <li><font size=3><b>Conference Program Committee:</b> AAAI'27</font></li>
   <li><font size=3><b>Journal Editorial Board:</b> China Communications (2026-Present)</font></li>

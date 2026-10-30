@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 <style>
+.funding-project-heading + ul {
+  text-align: justify;
+}
 .funding-project-heading {
   display: flex;
   flex-wrap: wrap;
@@ -20,7 +23,7 @@ redirect_from:
 
 <p style="text-align: justify;"><font size=3>Since 2023, I have had the opportunity to contribute to the preparation and execution of funding projects within my group, primarily serving as the <b>major proposal writer</b> and participating in a total of <b>~51.1 million HKD</b> applications, with <b>~12.5 million HKD approved</b> and <b>~10.9 million HKD pending</b> for results. I have also gained hands-on experience in preparing large-scale collaborative proposals for CRF-2024 and CRF-2025, in collaboration with PIs from CUHK, HKUST, HKU, Imperial College London, Aalborg University, and Singapore University of Technology and Design.</font></p>
 
-Approved
+Approved/Pending
 ------
 <div class="funding-project-heading">
   <span>1. STIC SZ-HK Science and Technology Collaboration Fund (~3.4m HKD)</span>
@@ -49,9 +52,6 @@ Approved
   <li><font size=3><b>Role:</b> <span style="color: #ffc000;">Co-PI</span>, drafted the proposal, coordinated with industry sponsors, responsible for all KPI delivery.</font></li>
 </ul>
 
-
-Pending
-------
 <div class="funding-project-heading">
   <span>4. UGC General Research Fund (~1.3m HKD)</span>
   <span>2028-2030 (<span style="color: #2e74b5;">Pending</span>)</span>
@@ -74,7 +74,7 @@ Pending
 Completed
 ------
 <div class="funding-project-heading">
-  <span>6. UGC Funding Scheme for Innovative Technology in Education (~0.3m HKD)</span>
+  <span>6. UGC Funding for Innovative Technology in Education (~0.3m HKD)</span>
   <span>2024-2025 (<span style="color: #bf4d14;">Completed</span>)</span>
 </div>
 <ul style="margin-left: 1.5em; margin-top: 6px;">
