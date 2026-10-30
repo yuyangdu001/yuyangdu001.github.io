@@ -53,16 +53,7 @@ Approved/Pending
 </ul>
 
 <div class="funding-project-heading">
-  <span>4. UGC General Research Fund (~1.3m HKD)</span>
-  <span>2028-2030 (<span style="color: #2e74b5;">Pending</span>)</span>
-</div>
-<ul style="margin-left: 1.5em; margin-top: 6px;">
-  <li><font size=3><b>Topic:</b> Cross-Layer Semantic Error Correction with Foundation Models: Iterative Token-Level Decoding, Visual Recovery, and Source-Channel Redundancy Co-Design</font></li>
-  <li><font size=3><b>Role:</b> <span style="color: #ffc000;">Co-I</span>, drafted the proposal, led the execution of preliminary research.</font></li>
-</ul>
-
-<div class="funding-project-heading">
-  <span>5. ITC ITSP Platform Project (~9.6m HKD with RTH matching)</span>
+  <span>4. ITC ITSP Platform Project (~9.6m HKD with RTH matching)</span>
   <span>2028-2030 (<span style="color: #2e74b5;">Pending</span>)</span>
 </div>
 <ul style="margin-left: 1.5em; margin-top: 6px;">
@@ -70,6 +61,14 @@ Approved/Pending
   <li><font size=3><b>Role:</b> <span style="color: #ffc000;">Co-PI</span>, drafted the proposal, led the execution of preliminary research, coordinated with industry sponsors.</font></li>
 </ul>
 
+<div class="funding-project-heading">
+  <span>5. UGC General Research Fund (~1.3m HKD)</span>
+  <span>2028-2030 (<span style="color: #2e74b5;">Pending</span>)</span>
+</div>
+<ul style="margin-left: 1.5em; margin-top: 6px;">
+  <li><font size=3><b>Topic:</b> Cross-Layer Semantic Error Correction with Foundation Models: Iterative Token-Level Decoding, Visual Recovery, and Source-Channel Redundancy Co-Design</font></li>
+  <li><font size=3><b>Role:</b> <span style="color: #ffc000;">Co-I</span>, drafted the proposal, led the execution of preliminary research.</font></li>
+</ul>
 
 Completed
 ------
