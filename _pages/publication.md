@@ -7,6 +7,12 @@ redirect_from:
   - /markdown.html
 ---
 
+<style>
+.page__content li {
+  text-align: justify;
+}
+</style>
+
 <p class="publication-notes"><font size=2>Note #1: An updated list of publications can be found in my <a href="https://scholar.google.com/citations?user=DLDht70AAAAJ">Google Scholar</a>.<br>Note #2: * for equal contribution, # for corresponding author/project lead, <u>underline</u> for students co-advised.</font></p>
 
 <p class="publication-category"><font size=3><b>Journals</b></font></p>
