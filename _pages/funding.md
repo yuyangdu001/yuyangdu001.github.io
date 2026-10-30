@@ -53,7 +53,16 @@ Approved/Pending
 </ul>
 
 <div class="funding-project-heading">
-  <span>4. ITC ITSP Platform Project (~9.6m HKD with RTH matching)</span>
+  <span>4. CUHK Strategic Partnership Award for Research Collaboration (~150k HKD)</span>
+  <span>2027-2028 (<span style="color: #2e74b5;">Pending</span>)</span>
+</div>
+<ul style="margin-left: 1.5em; margin-top: 6px;">
+  <li><font size=3><b>Topic:</b> You Only Improve What You Sense: mmWave-Enhanced Recursive Self-Improvement for Robot Manipulation</font></li>
+  <li><font size=3><b>Role:</b> <span style="color: #ffc000;">Co-I</span>, drafted the proposal in collaboration with the UCSD team, and led the robot-mmWave integration design.</font></li>
+</ul>
+
+<div class="funding-project-heading">
+  <span>5. ITC ITSP Platform Project (~9.6m HKD with RTH matching)</span>
   <span>2028-2030 (<span style="color: #2e74b5;">Pending</span>)</span>
 </div>
 <ul style="margin-left: 1.5em; margin-top: 6px;">
@@ -62,7 +71,7 @@ Approved/Pending
 </ul>
 
 <div class="funding-project-heading">
-  <span>5. UGC General Research Fund (~1.3m HKD)</span>
+  <span>6. UGC General Research Fund (~1.3m HKD)</span>
   <span>2028-2030 (<span style="color: #2e74b5;">Pending</span>)</span>
 </div>
 <ul style="margin-left: 1.5em; margin-top: 6px;">
@@ -70,19 +79,11 @@ Approved/Pending
   <li><font size=3><b>Role:</b> <span style="color: #ffc000;">Co-I</span>, drafted the proposal, led the execution of preliminary research.</font></li>
 </ul>
 
-<div class="funding-project-heading">
-  <span>6. CUHK Strategic Partnership Award for Research Collaboration (~150k HKD)</span>
-  <span>2027-2028 (<span style="color: #2e74b5;">Pending</span>)</span>
-</div>
-<ul style="margin-left: 1.5em; margin-top: 6px;">
-  <li><font size=3><b>Topic:</b> You Only Improve What You Sense: mmWave-Enhanced Recursive Self-Improvement for Robot Manipulation</font></li>
-  <li><font size=3><b>Role:</b> <span style="color: #ffc000;">Co-I</span>, drafted the proposal in collaboration with the UCSD team, and led the robot-mmWave integration design.</font></li>
-</ul>
 
 Completed
 ------
 <div class="funding-project-heading">
-  <span>6. UGC Funding for Innovative Technology in Education (~300k HKD)</span>
+  <span>7. UGC Funding for Innovative Technology in Education (~300k HKD)</span>
   <span>2024-2025 (<span style="color: #bf4d14;">Completed</span>)</span>
 </div>
 <ul style="margin-left: 1.5em; margin-top: 6px;">
@@ -91,7 +92,7 @@ Completed
 </ul>
 
 <div class="funding-project-heading">
-  <span>7. CUHK Research Committee Direct Grant (~50k HKD)</span>
+  <span>8. CUHK Research Committee Direct Grant (~50k HKD)</span>
   <span>2024-2026 (<span style="color: #bf4d14;">Completed</span>)</span>
 </div>
 <ul style="margin-left: 1.5em; margin-top: 6px;">
