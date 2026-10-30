@@ -38,8 +38,10 @@ News <font size=3></font>
 
 <p><center>
   <br>
-  <div id="clustrmaps-widget" style="width:25%">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=od8a63akYTgethb2LTMdoPosPVSy4Zi_mwp0ihnijJE&cl=ffffff&w=a"></script>
+  <div id="visitor-map" style="width:100%;max-width:300px">
+    <a href="https://info.flagcounter.com/IVLA" aria-label="View visitor statistics">
+      <img src="https://s05.flagcounter.com/map/IVLA/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Visitor map and pageview count" style="width:100%;height:auto;border:0">
+    </a>
   </div>
   <font size=3> @Yuyang Du | Last updated: Mar 2026 </font>
 </center></p>
